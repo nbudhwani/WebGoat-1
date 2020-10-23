@@ -10,7 +10,7 @@ __author__ = 'ratnesht'
 # ------------------------- DD UPLOAD SCAN INFO ------------------------------------------------------------------------
 
 DEFECT_DOJO_HOST = 'http://127.0.0.1:8080'
-DEFECT_DOJO_API_KEY = 'ee8f73803f55db3375c82ed48a7eb810e86faa14'
+DEFECT_DOJO_API_KEY = '24bd29250e88fe3d5cdb05dfa7dc610172e81a19'
 DEFECT_DOJO_USERNAME = 'admin'
 
 SCANNER = ['Dependency Check Scan', 'Snyk Scan', 'ZAP Scan']
